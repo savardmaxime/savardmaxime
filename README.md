@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @savardmaxime, a data scientist and travel consultant 
 - 👀 I’m interested in Transportation systems, GIS and Japan
 - 💞️ I’m looking to collaborate on travel and transportation problems
-- **See my LinkedIn profile [here](http://www.linkedin.com/in/maxime-savard-a185b364)**
+- See my LinkedIn profile **[here](http://www.linkedin.com/in/maxime-savard-a185b364)**
 - 📫 You can reach me at savardmax@gmail.com
 
 <!---
